@@ -39,7 +39,7 @@ app.get('/api/forms', async (req, res) => {
 });
 
 app.get('/', async (req, res) => {
-  res.send('Hello, world!');
+  res.send('Code Krle Bhai!');
 });
 
 
